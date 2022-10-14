@@ -1,6 +1,6 @@
 # Bizleaker - Bizum Name Scraper
 
-Bizleaker records name (usually name and the initials of the surnames) information from Bizum automatically. The purpose of the tool is to check large amounts of telephone numbers quickly without graphical interface, to prevent scam, harassment, identity theft or to simply identify a friend before adding him as a contact. It is not intended for any criminal or worngful use.
+Bizleaker records name (usually name and the initials of the surnames) information from Bizum automatically. The purpose of the tool is to check large amounts of telephone numbers quickly without graphical interface, to prevent scam, harassment, identity theft or to simply identify a friend before adding him as a contact. It is not intended for any criminal or wrongful use.
 
 ## Before using it...
 
