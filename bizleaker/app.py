@@ -41,7 +41,7 @@ def main():
     parser.add_argument('--id', dest='id', help='ID number for login.')
     parser.add_argument('--password', dest='password', help='Password for login.')
     parser.add_argument('--phones', dest='phones', help='Phone numbers list divided by commas.')
-    parser.add_argument('--file', dest='file', help='Phone numbers list in a file divided by lines.')
+    parser.add_argument('--input', dest='input', help='Input file with the phone numbers list divided by lines.')
     parser.add_argument('--output', dest='output', default=False, help='Output file to store results.')
     args = parser.parse_args()
     id = args.id
@@ -49,13 +49,13 @@ def main():
     browser = args.browser
     output = args.output
     execution_mode = 0
-    if not args.file:
+    if not args.input:
         if args.phones:
             phones = args.phones.split(",")
             execution_mode = 1
     else:
-        phones = open(args.phones, 'r').readlines()
-        print(phones)
+        with open(args.input, 'r') as f:
+            phones = f.read().splitlines()
     if not id:
         id = input('Account ID: ')
     if not password:

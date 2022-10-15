@@ -17,7 +17,7 @@ For now, a Santander account is necessary to use it, introducing your ID and pas
 Run `bizleaker --help` for help:
 ```
 usage: bizleaker [-h] [--firefox] [--chrome] [--id ID] [--password PASSWORD]
-                 [--phones PHONES] [--file FILE] [--output OUTPUT]
+              [--phones PHONES] [--input INPUT] [--output OUTPUT]
 
 options:
   -h, --help           show this help message and exit
@@ -26,7 +26,7 @@ options:
   --id ID              ID number for login.
   --password PASSWORD  Password for login.
   --phones PHONES      Phone numbers list divided by commas.
-  --file FILE          Phone numbers list in a file divided by lines.
+  --input INPUT        Input file with the phone numbers list divided by lines.
   --output OUTPUT      Output file to store results.
 ```
 
