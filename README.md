@@ -1,4 +1,4 @@
-<img src="bizleaker.png" width="120px" height="120px" align="right">
+<img src="bizleaker.png" width="80px" height="80px" align="right">
 
 # Bizleaker - Bizum Name Scraper
 
