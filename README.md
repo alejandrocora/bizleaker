@@ -6,7 +6,7 @@ Bizleaker records name (usually name and the initials of the surnames) informati
 
 ## Before using it...
 
-For now, a Santander account is necessary to use it, as well as your ID and password. You will also need to install a Web Driver, be it Firefox or Chrome. If you need help to install the latter, click [here](https://github.com/alejandrocora/install_webdriver "Install Webdriver").
+For now, a Santander account is necessary to use it, introducing an ID and password. You will also need to install a Web Driver, be it Firefox or Chrome. If you need help to install the latter, click [here](https://github.com/alejandrocora/install_webdriver "Install Webdriver").
 
 ## Installation
 
