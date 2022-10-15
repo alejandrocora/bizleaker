@@ -48,11 +48,12 @@ def main():
     password = args.password
     browser = args.browser
     output = args.output
-    execution_mode = 0
+    execution_mode = 1
     if not args.input:
         if args.phones:
             phones = args.phones.split(",")
-            execution_mode = 1
+        else:
+            execution_mode = 0
     else:
         with open(args.input, 'r') as f:
             phones = f.read().splitlines()
