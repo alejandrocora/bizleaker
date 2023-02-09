@@ -20,8 +20,8 @@ You will also need to install a Web Driver, be it Firefox or Chrome. If you need
 
 ## Installation
 
-`$ git clone https://github.com/alejandrocora/bizleak`  
-`$ cd bizleak`  
+`$ git clone https://github.com/alejandrocora/bizleaker`  
+`$ cd bizleaker`  
 `$ pip3 install .`
 
 ## Help
