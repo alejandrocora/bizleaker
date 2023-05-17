@@ -12,8 +12,9 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-import bizleaker.utils.cantabria
-import bizleaker.utils.selaux
+from bizleaker.utils.santander import Santander
+from bizleaker.utils.selaux import *
+
 
 def get_name(driver, account, number, output):
     if output:
@@ -21,9 +22,9 @@ def get_name(driver, account, number, output):
     try:
         account.service_send(number)
         name = account.service_get_name()
-        text = '[+] ' + number + ' -> ' + name + '\n'
+        text = '[+] ' + number + ' -> ' + name
         if output:
-            output.write(text)
+            output_text = text + '\n'
         else:
             print(text)
         driver.execute_script("window.history.go(-1)")
@@ -31,6 +32,7 @@ def get_name(driver, account, number, output):
     except (ElementClickInterceptedException, TimeoutException, NoSuchElementException):
         print('[i] Unable to get ' + number + '.')
     if output:
+        output.write(output_text)
         output.close()
 
 def main():
@@ -50,7 +52,7 @@ def main():
     execution_mode = 1
     if not args.input:
         if args.phones:
-            phones = args.phones.split(",")
+            phones = args.phones
         else:
             execution_mode = 0
     else:
@@ -64,7 +66,7 @@ def main():
         driver = headless_chrome()
     else:
         driver = headless_firefox()
-    account = Cantabria(driver, id)
+    account = Santander(driver, id)
     try:
         account.login(password)
     except Exception as e:
@@ -82,6 +84,7 @@ def main():
             get_name(driver, account, number.replace(' ', ''), output)
             number = input('[*] Phone number (Press [ENTER] to finish): ')
     driver.close()
+
 
 if __name__ == '__main__':
     main()
