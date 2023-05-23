@@ -34,10 +34,13 @@ class Santander():
         )
 
     def open_service(self):
-        WebDriverWait(self.driver, 10).until(
-            EC.visibility_of_element_located((By.CLASS_NAME, 'modal-close'))
-        )
-        elem = self.driver.find_element(By.CLASS_NAME, 'modal-close').click()
+        try:
+            WebDriverWait(self.driver, 10).until(
+                EC.visibility_of_element_located((By.CLASS_NAME, 'modal-close'))
+            )
+            elem = self.driver.find_element(By.CLASS_NAME, 'modal-close').click()
+        except TimeoutException:
+            pass
         WebDriverWait(self.driver, 30).until(
             EC.visibility_of_element_located((By.XPATH, '//span[text()=" '+SERVICE_NAME+' "]'))
         )
