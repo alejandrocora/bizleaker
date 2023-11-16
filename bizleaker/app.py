@@ -23,27 +23,26 @@ def get_name(driver, account, number, output):
         account.service_send(number)
         name = account.service_get_name()
         text = '[+] ' + number + ' -> ' + name
-        if output:
-            output_text = text + '\n'
-        else:
+        if not output:
             print(text)
         driver.execute_script("window.history.go(-1)")
         driver.execute_script("window.history.go(-1)")
     except (ElementClickInterceptedException, TimeoutException, NoSuchElementException):
-        print('[i] Unable to get ' + number + '.')
+        print('[!] Unable to get ' + number + '.')
     if output:
-        output.write(output_text)
+        output.write(text + '\n')
         output.close()
+
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--firefox', dest='browser', action='store_false', help='Use Firefox.')
-    parser.add_argument('--chrome', dest='browser', default=True, action='store_true', help='Use Chrome.')
+    parser.add_argument('--firefox', dest='browser', default=False, action='store_false', help='Use Firefox.')
+    parser.add_argument('--chrome', dest='browser', action='store_true', help='Use Chrome.')
     parser.add_argument('--id', dest='id', help='ID number for login.')
     parser.add_argument('--password', dest='password', help='Password for login.')
-    parser.add_argument('phones',  metavar='phones', type=str, nargs='+', help='Phone numbers.')
-    parser.add_argument('--input', dest='input', help='Input file with the phone numbers list divided by lines.')
+    parser.add_argument('--input', dest='input', help='Input file with the phone numbers list divided in lines.')
     parser.add_argument('--output', dest='output', default=False, help='Output file to store results.')
+    parser.add_argument('phones',  metavar='phones', type=str, nargs='+', help='Phone number or numbers (separated with blank spaces).')
     args = parser.parse_args()
     id = args.id
     password = args.password
