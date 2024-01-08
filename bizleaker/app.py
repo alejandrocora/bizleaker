@@ -83,6 +83,8 @@ def main():
             get_name(driver, account, number.replace(' ', ''), output)
             number = input('[*] Phone number (Press [ENTER] to finish): ')
     driver.close()
+    driver.switch_to.window(driver.window_handles[0])
+    driver.close()
 
 
 if __name__ == '__main__':
