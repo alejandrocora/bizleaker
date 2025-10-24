@@ -1,0 +1,450 @@
+1694613698181	geckodriver	INFO	Listening on 127.0.0.1:36845
+1694613698760	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "60429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekHmpeH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694613699934	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694613700065	Marionette	INFO	Listening on port 37071
+WebDriver BiDi listening on ws://127.0.0.1:60429
+Read port: 37071
+1694613700375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60429/devtools/browser/e4f04e17-e35c-4b0d-ad39-66964fbdb5c4
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=900918496, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=900918496, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=900918496, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=900918496 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=900918496 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/aPyp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=827226840, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=827226840, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=827226840, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=827226840 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=827226840 line 1 > eval, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10261230220152234.js, line 182: Script terminated by timeout at:
+ej@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10261230220152234.js:182:170
+cm@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10261230220152234.js:180:249
+
+1694613776686	Marionette	INFO	Stopped listening on port 37071
+1699470974455	geckodriver	INFO	Listening on 127.0.0.1:56707
+1699470975012	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "40475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6XLYvS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699470975518	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1699470975627	Marionette	INFO	Listening on port 36501
+WebDriver BiDi listening on ws://127.0.0.1:40475
+Read port: 36501
+1699470975894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40475/devtools/browser/11d631b7-8d7b-438c-b1f3-ee8d25904627
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=717494800, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=717494800, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=717494800 line 1 > eval, line 1: unreachable code after return statement
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699471005561	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+libEGL warning: egl: failed to create dri2 screen
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+libEGL warning: egl: failed to create dri2 screen
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852428569, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852428569, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852428569, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852428569 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852428569 line 1 > eval, line 1: unreachable code after return statement
+1699471093287	geckodriver	INFO	Listening on 127.0.0.1:58975
+1699471093354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "60177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebopbN7"
+
+(firefox:3102): Gtk-WARNING **: 20:18:13.441: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:3102): Gtk-WARNING **: 20:18:13.840: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+
+(firefox:3102): Gtk-WARNING **: 20:18:13.974: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+
+(firefox:3102): Gtk-WARNING **: 20:18:14.012: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+1699471094124	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1699471094258	Marionette	INFO	Listening on port 37647
+WebDriver BiDi listening on ws://127.0.0.1:60177
+Read port: 37647
+1699471094526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60177/devtools/browser/7e2165f1-b906-4e03-97d5-dd3385d9f101
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85434529, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85434529, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85434529, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85434529 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=85434529 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699471124178	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=176822400, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=176822400, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=176822400, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=176822400 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=176822400 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js, line 182: Script terminated by timeout at:
+ej@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:182:170
+cm@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:180:249
+
+1699471161125	Marionette	INFO	Stopped listening on port 37647
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699473633542	geckodriver	INFO	Listening on 127.0.0.1:54911
+1699473633612	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "49301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqTFUs7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699473634105	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1699473634212	Marionette	INFO	Listening on port 34015
+WebDriver BiDi listening on ws://127.0.0.1:49301
+Read port: 34015
+1699473634474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49301/devtools/browser/16e4d679-9288-4877-8590-0a02f24be342
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1421322983, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1421322983, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1421322983, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1421322983 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1421322983 line 1 > eval, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1699473664136	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/aPyp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=822824724, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=822824724, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=822824724, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=822824724 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=822824724 line 1 > eval, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+libEGL warning: egl: failed to create dri2 screen
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699482463556	Marionette	INFO	Stopped listening on port 36501
+1699482463587	Marionette	INFO	Stopped listening on port 34015
+1704497674641	geckodriver	INFO	Listening on 127.0.0.1:49387
+1704497674698	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "59805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepahJXi"
+[33049, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:33049): Gtk-WARNING **: 00:34:34.773: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 33049, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:33049): Gtk-WARNING **: 00:34:35.326: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 33049, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:33049): Gtk-WARNING **: 00:34:35.488: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 33049, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:33049): Gtk-WARNING **: 00:34:35.535: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+1704497675732	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1704497676032	Marionette	INFO	Listening on port 34983
+WebDriver BiDi listening on ws://127.0.0.1:59805
+Read port: 34983
+1704497676424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[Parent 33049, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:33049): WARNING **: 00:34:38.707: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+DevTools listening on ws://127.0.0.1:59805/devtools/browser/cbd4b99e-7c98-42bd-9aa7-3a86bebe7535
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=356171888, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=356171888, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=356171888, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=356171888 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=356171888 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+1704497685596	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1704497685597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/aPyp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1524377945, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1524377945, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1524377945, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1524377945 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1524377945 line 1 > eval, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704497706698	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js, line 182: Script terminated by timeout at:
+ej@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:182:170
+cm@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:180:249
+
+1704497712478	Marionette	INFO	Stopped listening on port 34983
+1704497800628	geckodriver	INFO	Listening on 127.0.0.1:43669
+1704497800685	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "39275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMO8hKL"
+[34019, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34019): Gtk-WARNING **: 00:36:40.754: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 34019, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34019): Gtk-WARNING **: 00:36:41.245: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 34019, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34019): Gtk-WARNING **: 00:36:41.400: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 34019, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34019): Gtk-WARNING **: 00:36:41.443: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+1704497801581	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1704497801727	Marionette	INFO	Listening on port 44501
+WebDriver BiDi listening on ws://127.0.0.1:39275
+Read port: 44501
+1704497802033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[Parent 34019, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:34019): WARNING **: 00:36:43.927: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+DevTools listening on ws://127.0.0.1:39275/devtools/browser/91c1dfd6-d88b-4cb1-9fa5-86339e5222d0
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1620046394, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1620046394, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1620046394, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1620046394 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1620046394 line 1 > eval, line 1: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/aPyp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1063945218, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1063945218, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1063945218 line 1 > eval, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704497831596	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 5086 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1704497981875	geckodriver	INFO	Listening on 127.0.0.1:41899
+1704497981930	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "33991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUAKlLx"
+[34649, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34649): Gtk-WARNING **: 00:39:42.023: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 34649, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34649): Gtk-WARNING **: 00:39:42.472: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 34649, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34649): Gtk-WARNING **: 00:39:42.607: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 34649, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:34649): Gtk-WARNING **: 00:39:42.650: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+1704497982778	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1704497982914	Marionette	INFO	Listening on port 36279
+Read port: 36279
+WebDriver BiDi listening on ws://127.0.0.1:33991
+1704497983021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[Parent 34649, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:34649): WARNING **: 00:39:44.930: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+DevTools listening on ws://127.0.0.1:33991/devtools/browser/18bf037d-707d-4022-9b80-282b87cbfdb9
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=914282603, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=914282603, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=914282603, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=914282603 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=914282603 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1367692249, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1367692249, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1367692249, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1367692249 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1367692249 line 1 > eval, line 1: unreachable code after return statement
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1704498014037	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-02-08-20-06-04.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js, line 182: Script terminated by timeout at:
+ej@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:182:170
+cm@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:180:249
+
+1704498020839	Marionette	INFO	Stopped listening on port 36279
+1704498111669	geckodriver	INFO	Listening on 127.0.0.1:43423
+1704498111727	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... 00" "--remote-debugging-port" "51383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFcp0rT"
+[35229, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:35229): Gtk-WARNING **: 00:41:51.816: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Parent 35229, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:35229): Gtk-WARNING **: 00:41:52.324: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 35229, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:35229): Gtk-WARNING **: 00:41:52.469: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+[Parent 35229, Main Thread] WARNING: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:35229): Gtk-WARNING **: 00:41:52.512: Theme parsing error: gtk.css:3030:21: Junk at end of value for background-color
+1704498112649	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1704498112784	Marionette	INFO	Listening on port 44445
+WebDriver BiDi listening on ws://127.0.0.1:51383
+Read port: 44445
+1704498113060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[Parent 35229, Main Thread] WARNING: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+: 'glib warning', file /build/firefox/src/firefox-120.0.1/toolkit/xre/nsSigHandlers.cpp:187
+
+** (firefox:35229): WARNING **: 00:41:54.923: Failed to call GetIdletime(): GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Mutter.IdleMonitor was not provided by any .service files
+
+DevTools listening on ws://127.0.0.1:51383/devtools/browser/2a8637c9-7e92-4dd9-88a5-dbc80c367081
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2093866325, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2093866325, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2093866325, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2093866325 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://particulares.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2093866325 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/ajlN.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://notesr.particulares.bancosantander.es/10704211/aPyp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://particulares.bancosantander.es."
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2010561617, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2010561617, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2010561617, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2010561617 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagosinmediatos.bancosantander.es/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2010561617 line 1 > eval, line 1: unreachable code after return statement
+1704498138356	Marionette	INFO	Stopped listening on port 44445
+JavaScript warning: https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26, line 1: Script terminated by timeout at:
+_toggleClass@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:618264
+4666/_applyIterableChanges/<@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:617808
+forEachAddedItem@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:839905
+_applyIterableChanges@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:617638
+ngDoCheck@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:617228
+updateWithValue@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:883511
+updateElement@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:869190
+setValue@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:868524
+setValue@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:872690
+4658/ngOnChanges/<@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:871613
+ngOnChanges@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:871523
+Wo@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:683831
+ci@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:688767
+$n@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:688539
+cr@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:688221
+lg@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:722293
+sg@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:722189
+ct@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:4509484
+vg@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:726020
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:724656
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Jy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:732031
+Ly@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725531
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725540
+Jy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:732031
+Ly@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725531
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725540
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Jy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:732031
+Ly@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725531
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725540
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Jy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:732031
+Ly@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725531
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725540
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Jy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:732031
+Ly@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725531
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725540
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Xy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725088
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725113
+Jy@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:732031
+Ly@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725531
+kl@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725540
+ky@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:725885
+__@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:732719
+Lg@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:790614
+detectChanges@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:790621
+tick@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:832588
+2560/r/next/<@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:831281
+invoke@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:447364
+onInvoke@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:823440
+invoke@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:447298
+run@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:442433
+run@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:824151
+next@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:831267
+__tryOrUnsub@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:390232
+next@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:389461
+_next@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:388640
+next@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:388414
+next@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:386178
+emit@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:797227
+ef@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:824525
+ub@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:824945
+onInvokeTask@https://particulares.bancosantander.es/nhb/main.9d2e56b3896b44e8.js?v=23.12.26:1:823386
+invokeTask@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:447932
+runTask@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:443096
+invokeTask@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:449134
+4924/Ut/this.invoke<@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:449027
+4924/Cn/Ae/Ut.args[0]@https://particulares.bancosantander.es/nhb/polyfills.10ed0c587ec4e755.js?v=23.12.26:1:470207
+
+JavaScript warning: https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js, line 182: Script terminated by timeout at:
+ej@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:182:170
+cm@https://particulares.bancosantander.es/login/ruxitagentjs_ICA2NVfghjqrtux_10263230921131557.js:180:249
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ, line 173: Script terminated by timeout at:
+kb@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:173:124
+B@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:174:48
+tq@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:398:218
+sq.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:402:263
+sq.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:400:207
+lq@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:397:789
+yG/<@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:595:178
+ba.Pk/<@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:546:126
+ba.Pk/c/<@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:545:420
+
+1704498387888	Marionette	INFO	Stopped listening on port 44501
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

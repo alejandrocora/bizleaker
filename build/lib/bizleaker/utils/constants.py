@@ -1,0 +1,6 @@
+LOGIN_URL = 'https://particulares.bancosantander.es/login/'
+HOME_URL = 'https://particulares.bancosantander.es/oneweb/global-position'
+SEND_URL = 'https://particulares.bancosantander.es/oneweb/transferencias'
+MOVEMENTS_URL = 'https://pagosinmediatos.bancosantander.es/PAINOP_BIZUMWEB/index.jsp#!/movimientos'
+SERVICE_SEND_URL = 'https://pagosinmediatos.bancosantander.es/PAINOP_BIZUMWEB/index.jsp#!/enviar'
+SERVICE_NAME = 'Bizum'
