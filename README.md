@@ -12,7 +12,7 @@ Bizleaker helps companies and individuals to check the identity of these numbers
 
 ## Before using it...
 
-You will also need to install a Web Driver, be it Firefox or Chrome. If you need help to install the latter, click [here](https://github.com/alejandrocora/install_webdriver "Install Webdriver").
+You will also need to install a Web Driver, be it Firefox or Chrome.
 
 ## Installation
 
@@ -41,4 +41,6 @@ options:
 
 ### Disclaimer
 
-Author is not responsible for its use or any type of error it may lead. Use it at your own risk.
+Author is not responsible for its use or any type of error it may lead. Use it at your own risk following all legal requirements.
+
+This is not by any means any official tool related to any services used.
