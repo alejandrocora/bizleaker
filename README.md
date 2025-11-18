@@ -1,4 +1,5 @@
-<img src="https://github.com/alejandrocora/ghostgram/blob/main/images/bizleaker.png?raw=true" width="50px" height="50px" align="right">
+<img src="https://github.com/alejandrocora/bizleaker/raw/main/bizleaker.png" width="50px" height="50px" align="right">
+
 
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)]()
 [![Python](https://img.shields.io/badge/python-3.13.7-blue.svg)](https://www.python.org/)
@@ -15,7 +16,7 @@ Plenty of companies receive tons of petititons and messages through SMS, chat ap
 
 Bizleaker helps companies and individuals to check the identity of these numbers in a quick and easy way to prevent these types of problems. Bizleaker does not access in any illegal way to this information or to any service.
 
-<img src="https://github.com/alejandrocora/bizleaker/blob/main/images/screenshot.png?raw=true">
+<img src="https://github.com/alejandrocora/bizleaker/raw/main/screenshot.png">
 
 ---
 
