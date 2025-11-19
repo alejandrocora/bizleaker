@@ -1,6 +1,5 @@
 <img src="https://github.com/alejandrocora/bizleaker/raw/main/bizleaker.png" width="50px" height="50px" align="right">
 
-
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)]()
 [![Python](https://img.shields.io/badge/python-3.13.7-blue.svg)](https://www.python.org/)
 ![Selenium](https://img.shields.io/badge/Selenium-4.32.0-blue.svg?logo=selenium&logoColor=white)
@@ -10,33 +9,40 @@
 
 # Bizleaker - Bizum Name Scraper
 
-Bizleaker records name (usually name and the initials of the surnames) information from the Bizum service automatically. The purpose of the tool is to check large amounts of telephone numbers quickly without graphical interface, to prevent scam, harassment, identity theft or to simply identify a friend before adding him as a contact.
+Bizleaker automatically records name information (usually the first name and initials of surnames) from the Bizum service. It is designed to quickly check large numbers of phone numbers without a graphical interface, helping prevent scams, harassment, identity theft, or to identify a friend before adding them as a contact.
 
-Plenty of companies receive tons of petititons and messages through SMS, chat applications or phone calls through numbers they usually blindly trust because of the large volume of contacts they must attend to and the urgency of their tasks. In many cases, this ends up with many problems, messages that were intented to a different contact, confussions, information leaks, administrative errors or the worst of all (although not uncommon) money scams.
-
-Bizleaker helps companies and individuals to check the identity of these numbers in a quick and easy way to prevent these types of problems. Bizleaker does not access in any illegal way to this information or to any service.
+Many companies receive large volumes of messages and requests through SMS, chat apps, or phone calls, often trusting numbers blindly due to workload and urgency. This can lead to misdirected messages, information leaks, administrative errors, or financial scams. Bizleaker helps companies and individuals verify identities quickly and efficiently.
 
 <img src="https://github.com/alejandrocora/bizleaker/raw/main/screenshot.png">
 
 ---
 
-## Before using it
+## ⚠️ Before Using
 
-You will need to install a **WebDriver**, either **Firefox** or **Chrome**, depending on which browser you plan to use.
-
----
-
-## Installation
-
-`$ git clone https://github.com/alejandrocora/bizleaker`  
-`$ cd bizleaker`  
-`$ pip3 install .`
+You will need a **WebDriver**, either **Firefox** or **Chrome**, depending on your preferred browser.
 
 ---
 
-## Help
+## 💻 Installation
 
-Run `bizleaker --help` for help:
+```bash
+git clone https://github.com/alejandrocora/bizleaker
+cd bizleaker
+pip3 install .
+```
+
+---
+
+## 🆘 Usage / Help
+
+Run the following for help:
+
+```bash
+bizleaker --help
+```
+
+Example output:
+
 ```
 usage: bizleaker [-h] [--firefox] [--chrome] [--visual] [--id ID] [--password PASSWORD]
                  [--input INPUT] [--output OUTPUT]
@@ -54,21 +60,20 @@ options:
   --password PASSWORD  Password for login.
   --input INPUT        Input file with the phone numbers list divided in lines.
   --output OUTPUT      Output file to store results.
-
 ```
 
 ---
 
-### Disclaimer
+## ⚖️ Disclaimer
 
-The author is **not responsible** for the use of this tool or for any type of error it may cause.  
-Use it at your own risk and always follow **legal and privacy requirements**.  
+The author is **not responsible** for how this tool is used or for any errors it may cause.  
+Use it at your own risk and always comply with **legal and privacy regulations**.  
 
-This tool is **not official** and **not related** to any of the services it interacts with.
+This tool is **unofficial** and **not affiliated** with any services it interacts with.
 
 ---
 
-## Author
+## 👤 Author
 
 **Alejandro Cora**  
 <https://github.com/alejandrocora>
