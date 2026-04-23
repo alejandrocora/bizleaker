@@ -1,3 +1,5 @@
+import sys
+
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 
 from bizleaker.utils.constants import *
@@ -47,7 +49,7 @@ class Santander():
 
     def service_send(self, number):
         if len(str(number)) < 9:
-            print('[!] Invalid phone number.')
+            print('[!] Invalid phone number.', file=sys.stderr)
             return False
         self._pause(f'about to fill phone number {number}')
         self.page.locator('[name="contactNumber"]').wait_for()
@@ -82,7 +84,11 @@ class Santander():
         self._pause('about to go back')
         self.page.go_back()
         try:
-            self.page.locator('.contact__remove').wait_for()
+            self.page.wait_for_load_state('domcontentloaded', timeout=10000)
+        except Exception:
+            pass
+        try:
+            self.page.locator('.contact__remove').wait_for(timeout=3000)
             self.page.locator('.contact__remove').click()
         except Exception as e:
-            print(e)
+            print(e, file=sys.stderr)
