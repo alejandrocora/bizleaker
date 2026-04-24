@@ -18,7 +18,7 @@ class Santander():
             input(f'[DEBUG] {msg} — press ENTER to continue...')
 
     def login(self, login_password):
-        self.page.goto(LOGIN_URL)
+        self.page.goto(LOGIN_URL, wait_until="domcontentloaded")
         try:
             self.page.locator('//*[@id="onetrust-accept-btn-handler"]').click(timeout=5000)
         except PlaywrightTimeoutError:
@@ -31,7 +31,7 @@ class Santander():
     def open_service(self):
         self.page.wait_for_url(HOME_URL)
         self._pause('at home page — about to go to transfers')
-        self.page.goto('https://particulares.bancosantander.es/oneweb/transferencias')
+        self.page.goto('https://particulares.bancosantander.es/oneweb/transferencias', wait_until="domcontentloaded")
         self.page.wait_for_load_state('networkidle')
         self._pause('at transfers page — about to click Más opciones')
         self.page.click('a[id="Más opciones"]')
@@ -77,7 +77,7 @@ class Santander():
             elem.wait_for()
             return elem.inner_text()
         except Exception as e:
-            self.page.goto(MOVEMENTS_URL)
+            self.page.goto(MOVEMENTS_URL, wait_until="domcontentloaded")
             raise e
 
     def service_go_back(self):
